@@ -1,5 +1,4 @@
 # $ export PYTHONPATH=$PYTHONPATH:/Users/liyueyang/Desktop/
-
 from flask import Flask, jsonify
 from flask.helpers import send_from_directory
 from flask_cors import CORS
